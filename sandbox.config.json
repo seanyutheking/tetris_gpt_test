@@ -1,0 +1,6 @@
+{
+  "template": "node",
+  "startCommand": "npm start",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install"
+}
